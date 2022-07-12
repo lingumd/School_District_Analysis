@@ -12,7 +12,12 @@ The school board has noticed that there is evidence of academic dishonesty, spec
 #### New District Summary
 ![New District Summary](./Images/New_District_Summary.png)
 
-The district summary is only slightly affected. In the New District Summary, the Average Math Score is 0.1% lower, the Average Reading Score is the same, the % Passing Math is 0.2% lower, the % Passing Reading is 0.1% lower and the % Overall Passing is 0.3% lower.
+The district summary is only slightly affected. In the New District Summary:
+  - The Average Math Score is 0.1% lower.
+  - The Average Reading Score is the same.
+  - The % Passing Math is 0.2% lower.
+  - The % Passing Reading is 0.1% lower.
+  - The % Overall Passing is 0.3% lower.
 
 - ### How is the school summary affected?
 #### Original School Summary - Thomas High School
@@ -46,12 +51,16 @@ Everything is the same, but the scores for 9th grade for the "New Math Scores by
 ##### New School Spending
 ![New Scores by Spending Type](./Images/New_Scores_by_Spending_Type.png)
 
+Everything is the same, but the "New School Spending" % Passing Reading and % Overall Passing for the $631-645 Spending Range(Per Student) is 0.1% lower than in the "Original School Spending" table.
+
 #### Scores by school size
 ##### Original Scores by School Size
 ![Original Scores by School Size](./Images/Original_Scores_by_Size_Type.png)
 
 ##### New Scores by School Size
 ![New Scores by School Size](./Images/New_Scores_by_Size_Type.png)
+
+Everything is the same, but the "New School Spending" % Passing Reading for the Medium(1000-1999) for the School Size is 0.1% lower than in the "Original Scores by School Size" table.
 
 #### Scores by school type
 ##### Original Scores by School Type
@@ -60,4 +69,7 @@ Everything is the same, but the scores for 9th grade for the "New Math Scores by
 ##### New Scores by School Type
 ![New Scores by School Type](./Images/New_Scores_by_School_Type.png)
 
-#### Summary:
+There is no change or the change is so small, it can't be noticed from the significant digits used.
+
+#### Summary: 
+The district summary is only slightly affected. In the New District Summary, the Average Math Score is 0.1% lower, the Average Reading Score is the same, the % Passing Math is 0.2% lower, the % Passing Reading is 0.1% lower, and the % Overall Passing is 0.3% lower.
